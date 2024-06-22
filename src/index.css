@@ -26,6 +26,7 @@ img{
 a{
   text-decoration: none!important;
 }
+
 .navbar{
   background-color: rgb(255, 255, 255);
   border-bottom: 2px solid rgb(255, 255, 255);
@@ -828,5 +829,11 @@ input:hover, textarea:hover, button:hover {
 .core-anim:hover{
  
   transform: scale(1.1);
+}
+
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1000; /* Adjust z-index as needed */
 }
 
