@@ -20,7 +20,7 @@ export default function Footer() {
         <div className="row second">
             <div className="col-12 col-sm-6 col-md-6">
                 <div className="add">
-                <h3 className=" mt-3">Registered Address</h3>
+                <h3 className=" mt-3">Registered Addresse</h3>
                 <p>
                     Block - C -275, First Floor,
                     Sector 10, Noida Gautam Buddha
